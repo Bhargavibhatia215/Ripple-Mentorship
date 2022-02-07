@@ -6,7 +6,7 @@ This is the repository that contains all the material/code that you will produce
 
 2. For any help with the course, you can contact your mentor. 
 
-3. All your code will be pushed to GitHub, so if you haven't already, create a GitHub account. Fork and clone this repository and create your respective folders (refer the sample folder with my name).
+3. All your code will be pushed to GitHub, so if you haven't already, create a GitHub account. *Fork and clone this repository and create your respective folders.*
 
 4. Add every question with name of the file as `Day_1_<Problem-name>.cpp` (If you code in C++) under your name directory.
 
